@@ -1,0 +1,15 @@
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\bin\Debug\net6.0\SoundScapes.deps.json
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\bin\Debug\net6.0\SoundScapes.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\bin\Debug\net6.0\SoundScapes.pdb
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\bin\Debug\net6.0\SoundScapesEncoder.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\bin\Debug\net6.0\SoundScapesEncoder.pdb
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.csproj.AssemblyReference.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.AssemblyInfoInputs.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.AssemblyInfo.cs
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.csproj.CoreCompileInputs.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.csproj.CopyComplete
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\refint\SoundScapes.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\SoundScapes.pdb
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapes\obj\Debug\net6.0\ref\SoundScapes.dll
