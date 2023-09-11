@@ -1,0 +1,12 @@
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\bin\Release\net6.0\Img2AudEncoder.deps.json
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\bin\Release\net6.0\Img2AudEncoder.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\bin\Release\net6.0\Img2AudEncoder.pdb
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.csproj.AssemblyReference.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.AssemblyInfoInputs.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.AssemblyInfo.cs
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\refint\Img2AudEncoder.dll
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\Img2AudEncoder.pdb
+C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\Img2AudEncoder\obj\Release\net6.0\ref\Img2AudEncoder.dll
