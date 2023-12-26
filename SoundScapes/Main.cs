@@ -195,20 +195,20 @@ namespace SoundScapes
 			}
 
 		}
-        public Main(string path, int option, int type)
+        public Main(int option, int type)
         {
             if(type == 1)
             {
                 BWEncoder encoder = new BWEncoder();
                 if (option == 1)
                 {
-                    Bitmap bitmap = readImageBW(path);
+                    Bitmap bitmap = readImageBW(Directory.GetCurrentDirectory() + "\\Input\\img.jpg");
                     generatePixelDataBW(bitmap);
                     encoder.EncodeBW(Directory.GetCurrentDirectory() + "\\Output\\pixelDataBW.txt");
                 }
                 else
                 {
-                    int[]dimension = encoder.readAudioBW(Directory.GetCurrentDirectory() + "\\output.wav");
+                    int[]dimension = encoder.readAudioBW(Directory.GetCurrentDirectory() + "\\Input\\output.wav");
                     this.width = dimension[0];
                     this.height = dimension[1];
                     generateImageBW(Directory.GetCurrentDirectory() + "\\Output\\convertedData.txt");

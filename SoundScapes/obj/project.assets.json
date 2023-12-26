@@ -622,19 +622,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pradhumn.Pandey\\.nuget\\packages\\": {}
+    "C:\\Users\\v-pandeyprad\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pradhumn.Pandey\\Source\\Repos\\SoundScapes\\SoundScapes\\SoundScapes.csproj",
+      "projectUniqueName": "C:\\Users\\v-pandeyprad\\source\\repos\\SoundScapes\\SoundScapes\\SoundScapes.csproj",
       "projectName": "SoundScapes",
-      "projectPath": "C:\\Users\\Pradhumn.Pandey\\Source\\Repos\\SoundScapes\\SoundScapes\\SoundScapes.csproj",
-      "packagesPath": "C:\\Users\\Pradhumn.Pandey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pradhumn.Pandey\\Source\\Repos\\SoundScapes\\SoundScapes\\obj\\",
+      "projectPath": "C:\\Users\\v-pandeyprad\\source\\repos\\SoundScapes\\SoundScapes\\SoundScapes.csproj",
+      "packagesPath": "C:\\Users\\v-pandeyprad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-pandeyprad\\source\\repos\\SoundScapes\\SoundScapes\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Pradhumn.Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-pandeyprad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -642,14 +649,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://bdo.pkgs.visualstudio.com/_packaging/APTR3/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Pradhumn.Pandey\\Source\\Repos\\SoundScapes\\SoundScapesEncoder\\SoundScapesEncoder.csproj": {
-              "projectPath": "C:\\Users\\Pradhumn.Pandey\\Source\\Repos\\SoundScapes\\SoundScapesEncoder\\SoundScapesEncoder.csproj"
+            "C:\\Users\\v-pandeyprad\\source\\repos\\SoundScapes\\SoundScapesEncoder\\SoundScapesEncoder.csproj": {
+              "projectPath": "C:\\Users\\v-pandeyprad\\source\\repos\\SoundScapes\\SoundScapesEncoder\\SoundScapesEncoder.csproj"
             }
           }
         }
@@ -685,7 +694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

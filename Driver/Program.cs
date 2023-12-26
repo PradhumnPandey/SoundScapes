@@ -21,7 +21,7 @@ internal class Program
         if (type == 2) Console.WriteLine("This Feature is under development");
         else
         {
-            Main main = new Main(Directory.GetCurrentDirectory() + "\\Input\\img.jpg", option,type);
+            Main main = new Main(option,type);
         }
     }
 }
