@@ -10,3 +10,16 @@ C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapesEncoder\obj\Debug\net6.
 C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapesEncoder\obj\Debug\net6.0\refint\SoundScapesEncoder.dll
 C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.pdb
 C:\Users\Pradhumn.Pandey\source\repos\Img2Aud\SoundScapesEncoder\obj\Debug\net6.0\ref\SoundScapesEncoder.dll
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\bin\Debug\net6.0\SoundScapesEncoder.deps.json
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\bin\Debug\net6.0\SoundScapesEncoder.dll
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\bin\Debug\net6.0\SoundScapesEncoder.pdb
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.csproj.AssemblyReference.cache
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.AssemblyInfoInputs.cache
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.AssemblyInfo.cs
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.csproj.CoreCompileInputs.cache
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.sourcelink.json
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.dll
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\refint\SoundScapesEncoder.dll
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\SoundScapesEncoder.pdb
+C:\Users\v-pandeyprad\source\repos\SoundScapes\SoundScapesEncoder\obj\Debug\net6.0\ref\SoundScapesEncoder.dll
